@@ -2,7 +2,7 @@
 
 A simple interactive quiz game that tests your knowledge of Python programming. The game presents multiple-choice questions with a timer for each question.
 
-![Python Quiz Demo]![image](https://github.com/user-attachments/assets/0502fb1d-f977-4fdb-b0a5-9b13d852e390)
+Python Quiz Demo: ![image](https://github.com/user-attachments/assets/0502fb1d-f977-4fdb-b0a5-9b13d852e390)
 ![image](https://github.com/user-attachments/assets/9160d630-19bf-4300-96f7-bbac2901d5de)
 
 
